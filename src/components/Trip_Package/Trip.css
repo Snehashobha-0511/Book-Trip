@@ -1,0 +1,19 @@
+td{
+    text-align: center;
+    color:mediumvioletred;
+}
+tr{
+    text-align: center;
+    color: mediumblue;
+}
+thead{
+    border: darkviolet 2px solid;
+}
+tbody{
+    border: darkviolet 2px solid;
+}
+
+#pack{
+    color:olive;
+    text-shadow:rgb(23, 248, 237) 2px 2px;
+}

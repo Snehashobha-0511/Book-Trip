@@ -1,0 +1,10 @@
+.cont{
+    color: black;
+    text-shadow: 2px 2px deeppink;
+    padding-left: 50px;
+}
+
+.card-img-top{
+    width: 100%;
+    border-radius:0% 0% 50% 50% ;
+}
